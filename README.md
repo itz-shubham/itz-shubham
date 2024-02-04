@@ -8,7 +8,7 @@
 <br>
 
 😄 Pronouns: He/His<br>
-🔭 I’m currently working on a Full Stack Mobile App.<br>
+🔭 I’m currently working on my Portfolio.<br>
 🌱 Passionate about expanding my knowledge in Machine Learning.<br>
 👯 Eager to collaborate on an exciting Open Source Project.
 
