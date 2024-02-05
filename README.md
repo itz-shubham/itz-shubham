@@ -88,7 +88,7 @@
   </p>
 
   <p align="center" >
-   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=itz-shubham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
+   <img width="54.5%" src="https://github-readme-stats.vercel.app/api?username=itz-shubham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-shubham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </p>
 
